@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct animation_and_drawingApp: App {
+struct AnimationAndDrawingApp: App {
     var body: some Scene {
         WindowGroup {
             CityView()
